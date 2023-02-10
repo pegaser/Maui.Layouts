@@ -5,7 +5,13 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.Layouts", "Maui.Layouts\Maui.Layouts.csproj", "{07D73F3C-B697-4BCE-AD84-7ADA5E6F4154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlignmentExample", "AlignmentExample\AlignmentExample.csproj", "{A4EA352D-C3A3-410B-9445-38992D789B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlignmentExample", "AlignmentExample\AlignmentExample.csproj", "{A4EA352D-C3A3-410B-9445-38992D789B16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackLayoutExample", "StackLayoutExample\StackLayoutExample.csproj", "{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridExample", "GridExample\GridExample.csproj", "{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +31,24 @@ Global
 		{A4EA352D-C3A3-410B-9445-38992D789B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EA352D-C3A3-410B-9445-38992D789B16}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A4EA352D-C3A3-410B-9445-38992D789B16}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BA4CCC-916B-41EE-9FD2-3E0CC5FB2F06}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7ED78D-ADCE-407E-9C4F-AA217FBD1330}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6683009B-9D3E-4D32-B28A-30B2E6C1ED26}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
